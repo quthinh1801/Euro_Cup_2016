@@ -1,5 +1,5 @@
 # Euro_Cup_2016
-Create a relational database for Euro_Cup results and some queries
+In this mini-project, I'll analyze EuroCup 2016 data for valuable insights. This project will give me hands-on experience designing MySQL and SQLServer queries to answer the kind of questions I'll get from your company's stakeholders.
 
 Description of tables:
 
